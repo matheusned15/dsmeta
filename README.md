@@ -12,7 +12,7 @@
 - VS Code
   - `IntelliCode`
   - `ESLint`
-  - `JSX HTML <tags/>
+  - `JSX HTML <tags/>`
 - Postman
 - Banco H2
 
